@@ -3,7 +3,7 @@ version: v1.0
 
 FlyCms v1.0 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component /system/share/ztree_category_edit
 
-![image-20240108165037892](.\image\image-20240108165037892.png)
+![image-20240108165037892](./image/image-20240108165037892.png)
 
 Poc:
 
@@ -23,10 +23,10 @@ Poc:
 
 
 
-![image-20240108165220660](.\image\image-20240108165220660.png)
+![image-20240108165220660](./image/image-20240108165220660.png)
 
 
 
 Successed
 
-![image-20240108165320556](.\image\image-20240108165320556.png)
+![image-20240108165320556](./image/image-20240108165320556.png)
